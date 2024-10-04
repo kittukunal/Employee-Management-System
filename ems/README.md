@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 // Initialize Vite + React + Tailwind
 // Create Login component
 // Create AdminDashboard component
+// Create EmployeeDashboard component
