@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 // Create Login component
 // Create AdminDashboard component
 // Create EmployeeDashboard component
+// Add AcceptTask component
