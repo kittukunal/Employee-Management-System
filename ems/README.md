@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 // Create AdminDashboard component
 // Create EmployeeDashboard component
 // Add AcceptTask component
+// Add CompleteTask component
