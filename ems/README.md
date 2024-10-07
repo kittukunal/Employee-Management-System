@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 // Create EmployeeDashboard component
 // Add AcceptTask component
 // Add CompleteTask component
+// Add FailedTask component
