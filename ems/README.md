@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 // Add AcceptTask component
 // Add CompleteTask component
 // Add FailedTask component
+// Add NewTask component
