@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 // Add FailedTask component
 // Add NewTask component
 // Create TaskList component
+// Add AllTask component
