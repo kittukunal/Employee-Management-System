@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 // Add NewTask component
 // Create TaskList component
 // Add AllTask component
+// Add CreateTask component
