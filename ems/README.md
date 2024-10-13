@@ -18,3 +18,4 @@ Currently, two official plugins are available:
 // Add AllTask component
 // Add CreateTask component
 // Add Header component
+// Add TaskListNumbers component
