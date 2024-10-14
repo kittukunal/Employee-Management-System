@@ -19,3 +19,4 @@ Currently, two official plugins are available:
 // Add CreateTask component
 // Add Header component
 // Add TaskListNumbers component
+// Add AuthProvider context
