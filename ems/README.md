@@ -21,3 +21,4 @@ Currently, two official plugins are available:
 // Add TaskListNumbers component
 // Add AuthProvider context
 // Setup localStorage utility
+// Update styles and Tailwind config
