@@ -22,3 +22,4 @@ Currently, two official plugins are available:
 // Add AuthProvider context
 // Setup localStorage utility
 // Update styles and Tailwind config
+// Final touches and refactoring
